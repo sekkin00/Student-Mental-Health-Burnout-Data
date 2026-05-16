@@ -285,6 +285,9 @@ We built an interactive **Power BI** dashboard using the **DASH** framework (cla
 **Interactivity**
 
 Slicers and cross-filtering let users explore subsets dynamically. Selecting **High Burnout** in the donut chart filters all visuals to high-burnout students for deeper comparison.
+
+
+**Dashboard**
 ![Dashboard Final](/images/dashboard.jpg)
 ---
 
